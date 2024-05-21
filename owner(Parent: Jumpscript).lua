@@ -1,0 +1,1 @@
+--This is a StringValue, so there is no coding in it.
